@@ -1,0 +1,1 @@
+console.log("Hello Ghazal! Node.js successfully chal raha ha.");
